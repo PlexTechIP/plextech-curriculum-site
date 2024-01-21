@@ -1,8 +1,22 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Full Stack Course
+tagline: PlexTech Curriculum
+description: A curriculum program covering the basics of full-stack web development and software engineering principles powered by PlexTech, UC Berkeley's premier technology consulting club.
+author: Eugene Chao
+baseurl: "/"
+url: ""
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "PlexTech":
+    - "https://plextech.berkeley.edu/"
+  "Dark Mode":
+    - "#"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - package.json
+  - vendor/bundle/
+  - yarn.lock
