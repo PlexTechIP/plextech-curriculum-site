@@ -6,7 +6,7 @@ on:
   pull_request:
 
 jobs:
-  ci:
+  format:
     name: Run Prettier
     runs-on: ubuntu-latest
     steps:

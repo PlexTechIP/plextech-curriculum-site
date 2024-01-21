@@ -1,4 +1,4 @@
-name: Auto-Format Source
+name: Auto Format Source
 
 on:
   workflow_dispatch:
@@ -19,7 +19,7 @@ env:
   GIT_COMMITTER_EMAIL: ${{ inputs.committer_email }}
 
 jobs:
-  ci:
+  format:
     name: Run Prettier
     runs-on: ubuntu-latest
     steps:
