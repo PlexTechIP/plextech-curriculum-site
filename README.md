@@ -10,7 +10,7 @@ There is also a GitHub Action to format code which can be dispatched manually. G
 
 A CI check is enabled which runs Prettier and fails if Prettier detects any formatting errors.
 
-### How to contribute
+# How to contribute
 
 You will need Ruby 2 to build the site (it has been tested on Ruby2.7.4).
 
@@ -38,6 +38,6 @@ $ bundle exec jekyll serve
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
-### Credit
+# Credit
 
 Thanks to the [CS 161 Textbook](https://github.com/cs161-staff/textbook/tree/master) and [OCF SysAdmin Decal](https://github.com/0xcf/decal-web/) for providing a general layout for this documentation project.
