@@ -41,3 +41,6 @@ For more information, refer to [Just the Docs](https://pmarsceill.github.io/just
 # Credit
 
 Thanks to the [CS 161 Textbook](https://github.com/cs161-staff/textbook/tree/master) and [OCF SysAdmin Decal](https://github.com/0xcf/decal-web/) for providing a general layout for this documentation project.
+
+# Rights
+Owned by PlexTech Consulting of UC Berkeley and Eugene Chao. All Rights Reserved.
